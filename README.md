@@ -19,25 +19,31 @@ Aim of this project is to provide ease of management of categories.
 2. PHP Should be present in system and Version should be 8.2 or higher. 
 3. Copy .env.examplate and rename to .env
 4. Update databse credention or keep it default 
-
-    DB_CONNECTION=sqlite
-
+```sh
+DB_CONNECTION=sqlite
+```
 5. Run Command
-
-	composer install
-
+```sh
+composer install
+```
 6. Run Command to migrate database and seed with with defauld username and password for login to admin dashboard.
-
-    php artisan migrate --seed
-
+```sh
+php artisan migrate --seed
+```
 7. Run command to start the application in local machine
-
-    php artisan serve
-
+```sh
+php artisan serve
+```
 8. Go to url showing in the terminal or (http://127.0.0.1:8000)
 9. Deafult username and password for admin login is
 
-    email : test@example.com
-    password: 12345678
+email :
+```sh
+test@example.com
+```
+password: 
+```sh
+12345678
+```
 
-10. Contact me for any quaries on (mailto: imran786asus@gmail.com)
+11. Contact me for any quaries on (mailto: imran786asus@gmail.com)
