@@ -16,9 +16,9 @@ Aim of this project is to provide ease of management of categories.
 ## How to run the application
 =============================
 1. Your System should have composer installed(https://getcomposer.org/)
-2. PHP Should be present in system and Version should be 8.2 or higher. 
-3. Copy .env.examplate and rename to .env
-4. Update databse credention or keep it default 
+2. PHP should be present in system and version should be 8.2 or higher. 
+3. Copy .env.example and rename to .env
+4. Update database credentials or keep it default 
 ```sh
 DB_CONNECTION=sqlite
 ```
