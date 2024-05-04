@@ -10,7 +10,7 @@ Aim of this project is to provide ease of management of categories.
 - Added Category Page with pagination and Action for Edit and Delete Category
 - Added Category Mapping for New Category as well Old Category(By Editing it).
 - Homepage Category Listing Present with parent child relation.
-- Deleting any category will map its all child categories to ites parent category.
+- Deleting any category will map its all child categories to its parent category.
 - Added Event and Listner for Category Delete Event.
 
 ## How to run the application
